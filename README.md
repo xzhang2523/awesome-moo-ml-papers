@@ -4,4 +4,4 @@
 
 2. PHN: Learning Pareto front by hypernetwork. ICLR, 2019.
 
-3. PHN-HVI: Improving pareto front learning via multi-sample hypernetworks.
+3. PHN-HVI: Improving pareto front learning via multi-sample hyper-networks.
