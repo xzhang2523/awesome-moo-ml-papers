@@ -1,3 +1,5 @@
 # awasome-moo-ml-papers
 
-PMTL: Pareto set learning
+1. PMTL: Pareto set learning. NeurIPS 2018. 
+
+
