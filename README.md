@@ -7,6 +7,10 @@
 
 3. Pareto set learning for expensive multiobjective optimization. Lin.
 
+4. COSMOS. 
+
+5. PaMaL. Pareto manifold learning: Tackling multiple tasks via ensembles of single-task models.
+
 
 # Pareto Multitask learning (Discrete Solutions)
 1. PMTL: Pareto Multi Task Learning. NeurIPS, 2018.
