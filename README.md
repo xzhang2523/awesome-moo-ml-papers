@@ -17,7 +17,7 @@
 
 
 
-# Using MOO idea to solve MTL
+# Using MOO idea to solve MTL (Single solution)
 
 It is noticed that, this line using Pareto ideas to solve MTL. 
 
