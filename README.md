@@ -11,6 +11,8 @@
 
 5. PaMaL. Pareto manifold learning: Tackling multiple tasks via ensembles of single-task models.
 
+6. 
+
 
 # Pareto Multitask learning (Discrete Solutions)
 1. PMTL: Pareto Multi Task Learning. NeurIPS, 2018.
@@ -42,6 +44,14 @@ It is noticed that, this line using Pareto ideas to solve MTL.
 
 2. 
 
+
+# Applications in very large problems. 
+1. Panacea: Pareto Alignment via Preference Adaptation for LLMs
+https://arxiv.org/html/2402.02030v1
+
+2. Controllable Preference Optimization.
+
+3. 
 
 
 # Awesome MOO libs
