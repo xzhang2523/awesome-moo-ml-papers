@@ -1,17 +1,20 @@
 ## awesome-moo-ml-papers
 
 # Pareto set learning
-1. PHN: Learning Pareto front by hypernetwork. ICLR, 2019.
+1. PHN: Learning Pareto front by hypernetwork. Navon et al, ICLR, 2019.
+link: https://arxiv.org/abs/2010.04104
 
-2. PHN-HVI: Improving pareto front learning via multi-sample hyper-networks. AAAI 2023. 
+3. PHN-HVI: Improving pareto front learning via multi-sample hyper-networks. AAAI 2023. 
 
-3. Pareto set learning for expensive multiobjective optimization. Lin.
 
-4. COSMOS. 
 
-5. PaMaL. Pareto manifold learning: Tackling multiple tasks via ensembles of single-task models.
+4. Pareto set learning for expensive multiobjective optimization. Lin.
 
-6. 
+5. COSMOS. 
+
+6. PaMaL. Pareto manifold learning: Tackling multiple tasks via ensembles of single-task models.
+
+7. GMOOAR. Multi-objective deep learning with adaptive reference vectors. 
 
 
 # Pareto Multitask learning (Discrete Solutions)
@@ -25,7 +28,7 @@
 
 5. SVGD.
 
-6. GMOOAR.
+6. GMOOAR. Multi-objective deep learning with adaptive reference vectors. 
 
 7. PNG. 
 
