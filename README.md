@@ -8,12 +8,14 @@
 3. Pareto set learning for expensive multiobjective optimization. Lin.
 
 
-# Pareto Multitask learning
+# Pareto Multitask learning (Discrete Solutions)
 1. PMTL: Pareto Multi Task Learning. NeurIPS, 2018.
 
 2.  Nash-MTL. Navon 2022.
 
-3.  MGDA. (Sener 2018)
+3.  MGDA. (Sener 2018).
+
+4.  EPO. 
 
 
 
@@ -38,6 +40,7 @@ It is noticed that, this line using Pareto ideas to solve MTL.
 
 2. Libmoon. Xiaoyuan Zhang. CityU HK.
 3. 
+4. 
 
  
 
