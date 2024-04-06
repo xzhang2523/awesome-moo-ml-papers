@@ -37,25 +37,24 @@
 
 # Pareto Multitask learning (Discrete Solutions)
 1. PMTL: Pareto Multi Task Learning. NeurIPS, 2018.
+   
+2.  MGDA. (Sener 2018).
 
-2.  Nash-MTL. Navon 2022.
+3.  EPO.
 
-3.  MGDA. (Sener 2018).
+4. SVGD.
 
-4.  EPO.
+5. GMOOAR. Multi-objective deep learning with adaptive reference vectors. 
 
-5. SVGD.
-
-6. GMOOAR. Multi-objective deep learning with adaptive reference vectors. 
-
-7. PNG. 
+6. PNG. 
 
 
 
-# Using MOO idea to solve MTL (Single solution)
+# Using MOO idea to solve MTL only for a single solution
 
 It is noticed that, this line using Pareto ideas to solve MTL. 
 
+1.  Nash-MTL. Navon 2022.
 
 
 
