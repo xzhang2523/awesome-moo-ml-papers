@@ -11,5 +11,28 @@
 # Pareto Multitask learning
 1. PMTL: Pareto Multi Task Learning. NeurIPS, 2018.
 
+2.  Nash-MTL. Navon 2022.
+
+3.  MGDA. (Sener 2018)
+
+
+
+# Using MOO idea to solve MTL
+
+It is noticed that, this line using Pareto ideas to solve MTL. 
+
+
+
+
+# Theories. 
+
+1. HV-PSL.
+
+2. 
+
+
+
+# Awesome MOO libs
+
  
 
