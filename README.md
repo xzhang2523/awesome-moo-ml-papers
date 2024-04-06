@@ -15,7 +15,13 @@
 
 3.  MGDA. (Sener 2018).
 
-4.  EPO. 
+4.  EPO.
+
+5. SVGD.
+
+6. GMOOAR.
+
+7. PNG. 
 
 
 
