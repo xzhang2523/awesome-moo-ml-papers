@@ -78,6 +78,7 @@ It is noticed that, this line using Pareto ideas to solve MTL.
 # Applications in very large problems. 
 A. Drug deign
 
+
 B. LLM
 
 1. Panacea: Pareto Alignment via Preference Adaptation for LLMs
@@ -85,7 +86,12 @@ https://arxiv.org/html/2402.02030v1
 
 2. Controllable Preference Optimization.
 
-3. 
+
+# NN meets MOEA.
+1. Pseudo Weight Net: Learning to Predict Pareto-optimal Solutions From Pseudo-weights
+Author: Deb.
+Jornal: TEVC
+link: https://www.egr.msu.edu/~kdeb/papers/c2022010.pdf
 
 
 # Awesome MOO libs
