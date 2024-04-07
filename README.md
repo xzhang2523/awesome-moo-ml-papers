@@ -13,12 +13,17 @@
    *Conference:* AAAI, 2023  
    *Link:* [arXiv:2212.01130](https://arxiv.org/abs/2212.01130)
 
-3. **PSL-Exp: Pareto set learning for expensive multiobjective optimization**  
+3. **PSL-Frame: A framework for controllable pareto front learning with completed scalarization functions and its applications**
+   *Author:* TA Tuan et al  
+   *Journal:* Neural Networks, 2024  
+   *Link:* [arXiv:2302.12487](https://arxiv.org/pdf/2302.12487.pdf)
+
+4. **PSL-Exp: Pareto set learning for expensive multiobjective optimization**  
    *Authors:* Lin et al  
    *Conference:* NeurIPS, 2022  
    *Link:* [arXiv:2210.08495](https://arxiv.org/abs/2210.08495)
 
-4. **COSMOS: Scalable Pareto Front Approximation for Deep Multi-Objective Learning**
+5. **COSMOS: Scalable Pareto Front Approximation for Deep Multi-Objective Learning**
    *Authors:* Ruchte et al  
    *Conference:* ICDM, 2022
    *Link:* [arXiv:2103.13392.pdf](https://arxiv.org/pdf/2103.13392.pdf)
@@ -28,10 +33,15 @@
    *Conference:* ICLR, 2023
    *Link:* [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/v202/dimitriadis23a.html)
 
-8. **GMOOAR: Multi-objective deep learning with adaptive reference vectors**
+7. **GMOOAR: Multi-objective deep learning with adaptive reference vectors**
    *Authors:* Ruchte et al  
    *Conference:* NeurIPS, 2023 
    *Link:* [NeurIPS Conference Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/d313b4a8c88eba7f0542c489899cec77-Paper-Conference.pdf)
+
+8. **HVPSL: Multi-objective deep learning with adaptive reference vectors**
+   *Authors:* Xiaoyuan Zhang et al  
+   *Conference:* NeurIPS, 2023 
+   *Link:* [NeurIPS Conference Paper](https://openreview.net/pdf?id=9ieV1hnuva)
 
 
 
