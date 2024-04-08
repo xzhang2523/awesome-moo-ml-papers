@@ -1,7 +1,6 @@
 ## awesome-moo-ml-papers
 
 # Pareto set learning
-### Multiobjective Optimization and Pareto Front Learning Resources
 
 1. **PHN: Learning Pareto front by hypernetwork**  
    *Authors:* Navon et al  
@@ -52,11 +51,13 @@
 
 3.  EPO.
 
-4. SVGD.
+4. MOO-SVGD Profiling Pareto Front With Multi-Objective Stein Variational Gradient Descent.
+   Conference: NeurIPS 2022.
+   Author: Xingchao Liu
 
-5. GMOOAR. Multi-objective deep learning with adaptive reference vectors. 
+6. GMOOAR. Multi-objective deep learning with adaptive reference vectors. 
 
-6. PNG. 
+7. PNG. 
 
 
 
