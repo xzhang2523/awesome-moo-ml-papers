@@ -43,9 +43,9 @@
    *Link:* [NeurIPS Conference Paper](https://openreview.net/pdf?id=9ieV1hnuva)
 
 9. **Smooth Tchebycheff Scalarization for Multi-Objective Optimization**
-  *Authors:* Xi Lin et al  
-  *Conference:* Unknown 
-  *Link:* [arxiv](https://arxiv.org/abs/2402.19078)
+    *Authors:* Xi Lin et al  
+    *Conference:* Unknown  
+    *Link:* [arxiv](https://arxiv.org/abs/2402.19078)
 
 
 
