@@ -33,16 +33,16 @@
    *Link:* [Proceedings of Machine Learning Research (PMLR)](https://proceedings.mlr.press/v202/dimitriadis23a.html)
 
 7. **GMOOAR: Multi-objective deep learning with adaptive reference vectors** 
-   *Authors:* Ruchte et al  
+   *Authors:* Ruchte et al
    *Conference:* NeurIPS, 2023 
    *Link:* [NeurIPS Conference Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/d313b4a8c88eba7f0542c489899cec77-Paper-Conference.pdf)
 
-8. **HVPSL: Multi-objective deep learning with adaptive reference vectors** 
+9. **HVPSL: Multi-objective deep learning with adaptive reference vectors** 
    *Authors:* Xiaoyuan Zhang et al  
    *Conference:* NeurIPS, 2023 
    *Link:* [NeurIPS Conference Paper](https://openreview.net/pdf?id=9ieV1hnuva)
 
-9. **Smooth Tchebycheff Scalarization for Multi-Objective Optimization** 
+10. **Smooth Tchebycheff Scalarization for Multi-Objective Optimization** 
     *Authors:* Xi Lin et al  
     *Conference:* Unknown  
     *Link:* [arxiv](https://arxiv.org/abs/2402.19078)
@@ -77,11 +77,13 @@ It is noticed that, this line using Pareto ideas to solve MTL.
 
 
 
-# Theories. 
+# Theories.
 
-1. HV-PSL.
-
-2. 
+1. **HVPSL: Multi-objective deep learning with adaptive reference vectors** 
+   *Authors:* Xiaoyuan Zhang et al  
+   *Conference:* NeurIPS, 2023 
+   *Link:* [NeurIPS Conference Paper](https://openreview.net/pdf?id=9ieV1hnuva)
+   TL: Understanding the generlization bound of PSL. 
 
 
 # Applications in very large problems. 
