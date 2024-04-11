@@ -47,11 +47,6 @@
     *Conference:* Unknown  
     *Link:* [arxiv](https://arxiv.org/abs/2402.19078)
 
-
-
-
-
-
 # Pareto Multitask learning (Discrete Solutions)
 1. PMTL: Pareto Multi Task Learning. NeurIPS, 2018.
    
@@ -79,6 +74,8 @@ It is noticed that, this line using Pareto ideas to solve MTL.
 
 # Theories.
 
+
+    
 1. **HVPSL: Multi-objective deep learning with adaptive reference vectors** 
    *Authors:* Xiaoyuan Zhang et al  
    *Conference:* NeurIPS, 2023 
@@ -92,8 +89,10 @@ A. Drug deign
 
 B. LLM
 
-1. Panacea: Pareto Alignment via Preference Adaptation for LLMs
-https://arxiv.org/html/2402.02030v1
+10. **Panacea: Pareto Alignment via Preference Adaptation for LLMs** 
+    *Authors:* Yifan Zhong et al  
+    *Conference:* Unknown  
+    *Link:* [arxiv](https://arxiv.org/html/2402.02030v1)
 
 2. Controllable Preference Optimization.
 
