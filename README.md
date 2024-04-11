@@ -89,7 +89,7 @@ A. Drug deign
 
 B. LLM
 
-10. **Panacea: Pareto Alignment via Preference Adaptation for LLMs** 
+1. **Panacea: Pareto Alignment via Preference Adaptation for LLMs** 
     *Authors:* Yifan Zhong et al  
     *Conference:* Unknown  
     *Link:* [arxiv](https://arxiv.org/html/2402.02030v1)
