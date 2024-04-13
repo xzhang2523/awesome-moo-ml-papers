@@ -75,12 +75,17 @@ It is noticed that, this line using Pareto ideas to solve MTL.
 # Theories.
 
 
-    
 1. **HVPSL: Multi-objective deep learning with adaptive reference vectors** 
    *Authors:* Xiaoyuan Zhang et al  
    *Conference:* NeurIPS, 2023 
    *Link:* [NeurIPS Conference Paper](https://openreview.net/pdf?id=9ieV1hnuva)
-   TL: Understanding the generlization bound of PSL. 
+   TL: Understanding the **generlization bound** of PSL.
+
+2. Revisiting scalarization in multi-task learning: A theoretical perspective
+   *Authors:* Yuzheng Hu et al  
+   *Conference:* NeurIPS, 2023 
+   *Link:* [NeurIPS Conference Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/97c8a8eb0e5231d107d0da51b79e09cb-Abstract-Conference.html)
+   TL: When MOO-MTL actually has no tradeoff. 
 
 
 # Applications in very large problems. 
