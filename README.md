@@ -12,7 +12,7 @@
    *Conference:* AAAI, 2023  
    *Link:* [arXiv:2212.01130](https://arxiv.org/abs/2212.01130)
 
-3. **PSL-Frame: A framework for controllable pareto front learning with completed scalarization functions and its applications**
+3. **PSL-Frame: A framework for controllable pareto front learning with completed scalarization functions and its applications**  
    *Author:* TA Tuan et al  
    *Journal:* Neural Networks, 2024  
    *Link:* [arXiv:2302.12487](https://arxiv.org/pdf/2302.12487.pdf)
