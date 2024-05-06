@@ -44,7 +44,7 @@
 
 10. **Smooth Tchebycheff Scalarization for Multi-Objective Optimization** 
     *Authors:* Xi Lin et al  
-    *Conference:* Unknown  
+    *Conference:* ICML 2024  
     *Link:* [arxiv](https://arxiv.org/abs/2402.19078)
 
 11. Low Rank (LoRA) PSL. 
