@@ -47,6 +47,8 @@
     *Conference:* Unknown  
     *Link:* [arxiv](https://arxiv.org/abs/2402.19078)
 
+11. Low Rank (LoRA) PSL. 
+
 # Pareto Multitask learning (Discrete Solutions)
 1. PMTL: Pareto Multi Task Learning. NeurIPS, 2018.
    
