@@ -49,6 +49,12 @@
 
 11. Low Rank (LoRA) PSL. 
 
+12. **Learning a Neural Pareto Manifold Extractor with Constraints**
+    *Authors:* Gupta et al
+    *Conference:* UAI 2021
+    
+
+
 # Pareto Multitask learning (Discrete Solutions)
 1. PMTL: Pareto Multi Task Learning. NeurIPS, 2018.
    
