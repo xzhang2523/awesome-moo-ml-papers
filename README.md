@@ -49,9 +49,9 @@
 
 11. Low Rank (LoRA) PSL. 
 
-12. **Learning a Neural Pareto Manifold Extractor with Constraints** 
-    *Authors:* Gupta et al 
-    *Conference:* UAI 2021 
+12. **Learning a Neural Pareto Manifold Extractor with Constraints**  
+    *Authors:* Gupta et al   
+    *Conference:* UAI 2021   
     
 
 
