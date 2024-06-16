@@ -51,7 +51,8 @@
 
 12. **Learning a Neural Pareto Manifold Extractor with Constraints**  
     *Authors:* Gupta et al   
-    *Conference:* UAI 2021   
+    *Conference:* UAI 2021
+
     
 
 
